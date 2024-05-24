@@ -1,0 +1,4 @@
+SimpleGoal|Wake up early|Wake up every day at 06:15 to pray and study.|50|True
+EternalGoal| Go to temple|Go to tenmple 1x per month|100
+CheckListGoal|Study for graduation 5x a week|150|120|2|5|60
+Score|390
