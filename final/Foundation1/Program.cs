@@ -29,7 +29,7 @@ class Program
         Author = "Janice Kepp",
         Length = 900
        };
-       video3.Comments.Add(new Comment { Author = "Ricardo", Text= "Amamzing places, thanks!"});
+       video3.Comments.Add(new Comment { Author = "Ricardo", Text= "Amazing places, thanks!"});
        video3.Comments.Add(new Comment { Author = "Cassia", Text= "I hope to visit there soon." });
 
        // Add videos to list
